@@ -1,5 +1,3 @@
-# Employee Management System Using Python - Sagar Developer
-
 from os import system
 import re
 # importing mysql connector
