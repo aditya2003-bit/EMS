@@ -28,7 +28,7 @@ This system allows you to **add, update, delete, promote, search, and display em
 ## 📂 Project Structure
 
 Employee-Management-System/
-│
-├── employee_management.py # Main program
-├── employee.sql # Database schema & sample data
-├── README.md # Project documentation
+
+- employee_management.py # Main program
+- employee.sql # Database schema & sample data
+- README.md # Project documentation
